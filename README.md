@@ -1,2 +1,0 @@
-# GitFlagPicker
-Created with CodeSandbox
